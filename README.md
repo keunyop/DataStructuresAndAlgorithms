@@ -6,3 +6,4 @@
  - GameEntry
  - Scoreboard
  - InsertionSort
+ - CaesarCipher
